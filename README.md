@@ -2,8 +2,9 @@
 <h3 align="center">A Full Stack Developer from Cape Town, South Africa</h3>
 
 
-- 🔭 I’m currently working on **FoodPrint WebApp**
+- 🔭 I’m currently working at BSOLVE on SPRobot
 
+- 💬 Technologies I am currently working in: **.NET, Angular, Sharepoint, Microsoft Graph**
 - 💬 Technologies I am interested in: **Blockchain, NodeJS, JavaScript, React**
 
 <h3 align="left">Connect with me:</h3>
